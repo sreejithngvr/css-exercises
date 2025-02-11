@@ -10,7 +10,7 @@ body {
 }
 
 .title {
-  background: #e3f4ff;
+  background: #e3f4ff; 
 }
 
 .content {
@@ -24,4 +24,37 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+}
+
+/*
+  solution
+     |
+     |
+     |
+          */
+.card {
+  padding: 8px;
+}
+
+.title {
+  font-size: 16px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.content {
+  padding:16px 8px;
+  margin-bottom: 8px;
+
+}
+
+.button-container{
+  text-align: center;
+  padding: 8px;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
