@@ -1,0 +1,28 @@
+.container .text{
+    font-size: 20px;
+    background-color: #ffff00;
+    text-align: center;
+    color: #ff0000;
+}
+
+/* We can also use these following methods for the solution!
+
+/*div p {
+    font-size: 20px;
+    background-color: #ffff00;
+    text-align: center;
+    color: #ff0000;
+}*/
+/*div .text {
+    font-size: 20px;
+    background-color: #ffff00;
+    text-align: center;
+    color: #ff0000;
+}*/
+/*.container p{
+    font-size: 20px;
+    background-color: #ffff00;
+    text-align: center;
+    color: #ff0000;
+}*/
+
